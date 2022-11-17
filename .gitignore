@@ -1,0 +1,8 @@
+__pycache__
+.coverage
+htmlcov/
+venv
+.pytest_cache
+.DS_STORE
+.flaskenv
+mongo-data
